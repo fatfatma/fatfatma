@@ -11,7 +11,7 @@
 ---
 
 ### 💼 Currently
-- 🔐 Building a **web-based management panel** as a Software Development position at **Webtymize**
+- 🔐 Building a **web-based management panel** as a Software Development Intern at **Webtymize**
 - 📉 Analyzed **server CPU spikes** of a production website to find the root causes and improve performance
 
 ---
@@ -27,8 +27,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fatfatma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatfatma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 ---
@@ -38,30 +38,30 @@
 #### 🧬 AI & Machine Learning
 <p align="center">
   <a href="https://github.com/fatfatma/NucleoCodeX-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatfatma&repo=NucleoCodeX-&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pin-nucleocodex.svg" />
   </a>
   <a href="https://github.com/fatfatma/MovieAnalysis_NLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatfatma&repo=MovieAnalysis_NLP&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pin-movieanalysis.svg" />
   </a>
 </p>
 
 #### 📈 Data Analysis
 <p align="center">
   <a href="https://github.com/fatfatma/NovaShop-Business-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatfatma&repo=NovaShop-Business-Analysis&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pin-novashop.svg" />
   </a>
   <a href="https://github.com/fatfatma/kaggle-competitions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatfatma&repo=kaggle-competitions&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pin-kaggle.svg" />
   </a>
 </p>
 
 #### 🎮 Game Development
 <p align="center">
   <a href="https://github.com/fatfatma/IceSlide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatfatma&repo=IceSlide&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pin-iceslide.svg" />
   </a>
   <a href="https://github.com/fatfatma/Bomberman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatfatma&repo=Bomberman&theme=tokyonight&hide_border=true" />
+    <img src="./profile/pin-bomberman.svg" />
   </a>
 </p>
 
