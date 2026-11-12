@@ -1,13 +1,18 @@
 <h1 align="center">Hi, I'm Fatma 👋</h1>
 <p align="center">
-  Computer Engineering student · Software Development <br/>
+  Computer Engineering student · Software Development Intern<br/>
   Interested in <b>AI</b>, <b>NLP</b>, <b>data analysis</b>, <b>Full-Stack Development</b> and <b>game development</b>
 </p>
 
-
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/fatma-y%C4%B1ld%C4%B1z-575b3a259/)]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fatma-y%C4%B1ld%C4%B1z-575b3a259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
+
+### 💼 Currently
+- 🔐 Building a **web-based management panel** as a Software Development Intern at **Webtymize**
+- 📉 Analyzed **server CPU spikes** of a production website to find the root causes and improve performance
 
 ---
 
