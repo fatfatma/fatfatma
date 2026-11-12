@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/LINKEDIN_ADIN](https://www.linkedin.com/in/fatma-y%C4%B1ld%C4%B1z-575b3a259/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[(https://www.linkedin.com/in/fatma-y%C4%B1ld%C4%B1z-575b3a259/)]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
