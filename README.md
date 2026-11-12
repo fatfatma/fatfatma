@@ -11,7 +11,7 @@
 ---
 
 ### 💼 Currently
-- 🔐 Building a **web-based management panel** as a Software Development Intern at **Webtymize**
+- 🔐 Building a **web-based management panel** as a Software Development position at **Webtymize**
 - 📉 Analyzed **server CPU spikes** of a production website to find the root causes and improve performance
 
 ---
